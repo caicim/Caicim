@@ -45,3 +45,13 @@ Dark Systems • Discord Automation • Cyberpunk Code
 > SECURITY    : MAXIMUM
 > LATENCY     : LOW
 > VISUALS     : NEON RED
+who ı am
+🤖 Custom Discord Bots
+
+🛡️ Guard / Moderation / Economy
+
+⚡ Ultra Fast & Stable Systems
+
+🖤 Dark UI / Cyberpunk Infrastructure
+
+🔥 Private & Public Bot Architect

@@ -63,3 +63,12 @@
 <p align="center">
   🖤 <b>CAI</b> — Building dark & powerful Discord systems
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emir1654156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B5CFF&icon_color=9B5CFF&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir1654156&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B5CFF&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Emir1654156&theme=tokyonight&hide_border=true&background=0d1117&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF" />
+</p>

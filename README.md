@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0033&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0033&height=4"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code
-  &pause=1000
+  &pause=900
   &color=FF0033
   &center=true
   &vCenter=true
-  &width=650
-  &lines=CAI+Bots;Dark+Discord+Automation;Secure+%26+High+Performance;DM+for+Custom+Bots" />
+  &width=700
+  &lines=CAI+SYSTEMS;Neon+Dark+Discord+Bots;Secure+%26+High+Performance;Available+for+Freelance" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Emir1654156/caicim/main/assets/cai-logo.png" width="180"/>
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="220" alt="CAI Glitch Logo"/>
 </p>
 
 <p align="center">
 🩸 <b>CAI — Discord Bot Developer</b><br/>
 Dark systems • Secure bots • High performance
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for-Freelance-ff0033?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -43,10 +47,10 @@ Dark systems • Secure bots • High performance
 
 ## ⚡ Projects
 
-- 🌐 All projects:  
+- 🌐 All projects  
   👉 https://github.com/Emir1654156  
 
-- 🤖 Discord Bot Systems:  
+- 🤖 Discord Bot Systems  
   👉 https://github.com/Emir1654156  
 
 <p align="center">
@@ -61,6 +65,16 @@ Dark systems • Secure bots • High performance
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Emir1654156&theme=dark&hide_border=true&background=0d1117&ring=ff0033&fire=ff0033&currStreakLabel=ff0033"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0033&height=2"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">

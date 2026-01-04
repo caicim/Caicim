@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">CAI</h1>
+<p align="center">
+  <i>Dark • Powerful • Custom Discord Systems</i>
+</p>
 
-<!--
-**caicim/Caicim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/DISCORD-BOTS-0a0a0a?style=for-the-badge&logo=discord&logoColor=9b5cff" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0a0a0a?style=for-the-badge&logo=power&logoColor=9b5cff" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕷️ WHO AM I
+> I build **dark, fast and silent** Discord systems.  
+> No unnecessary features.  
+> No lag.  
+> Only **power**.
+
+- 🧠 Custom Discord Bots  
+- ⚡ Ultra optimized systems  
+- 🔐 Security-first architecture  
+- 🕶️ Private & public solutions  
+
+---
+
+## 🩸 SYSTEMS I BUILD
+- 🔒 **Guard & Protection Bots**
+- 🛡️ **Advanced Moderation**
+- 🎫 **Ticket / Support Systems**
+- 💰 **Economy & Leveling**
+- ⚙️ **Automation & Custom Logic**
+
+---
+
+## 🕸️ TECH STACK
+```txt
+Node.js
+Discord.js v14
+MongoDB / PostgreSQL
+REST APIs
+PM2 / Linux

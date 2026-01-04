@@ -39,3 +39,13 @@ Discord.js v14
 MongoDB / PostgreSQL
 REST APIs
 PM2 / Linux
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &pause=1000
+  &color=9B5CFF
+  &center=true
+  &vCenter=true
+  &width=500
+  &lines=CAI+Bots;Custom+Discord+Bots;Dark+%26+Powerful;DM+for+Business" />
+</p>
